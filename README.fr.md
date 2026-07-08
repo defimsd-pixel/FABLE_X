@@ -1,4 +1,4 @@
- [English](../README.md) | **Français**
+[English](README.md) | **Français**
 
 # FABLE-X v3.2 — Protocole universel de qualité et anti-régression pour LLM
 
