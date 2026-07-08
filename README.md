@@ -1,4 +1,4 @@
-**English** | 🇫🇷 [Version française sur code-ia.com](https://code-ia.com) · [README.fr](fr/README.fr.md)
+**English** | 🇫🇷 [Version française sur code-ia.com](https://code-ia.com) · [README.fr.md](README.fr.md)
 
 # FABLE-X v3.2 — Universal Quality & Anti-Regression Protocol for LLMs
 
@@ -43,11 +43,11 @@ Without a command, the level is picked automatically. **MAX triggers by itself**
 
 **Claude.ai**: Settings → Capabilities → Skills → import `fable-x.skill`.
 
-**Claude Code**: copy the `fable-x/` folder into `~/.claude/skills/`.
+**Claude Code**: create a folder named `fable-x` inside `~/.claude/skills/`, then put `SKILL.md` (from this repo) inside it — the final path should be `~/.claude/skills/fable-x/SKILL.md`.
 
-**Any other LLM/agent**: paste the contents of `fable-x/SKILL.md` as a system prompt (or as a context file for your n8n, Make, etc. agents).
+**Any other LLM/agent**: paste the contents of `SKILL.md` as a system prompt (or as a context file for your n8n, Make, etc. agents).
 
-> 🇫🇷 A full French version of the protocol is available in [`fr/`](fr/) and on [code-ia.com](https://code-ia.com).
+> 🇫🇷 A full French version of the protocol is available in [`SKILL.fr.md`](SKILL.fr.md) and on [code-ia.com](https://code-ia.com).
 
 ## What FABLE-X does NOT do
 
