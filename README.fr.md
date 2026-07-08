@@ -43,9 +43,9 @@ Sans commande, le niveau est choisi automatiquement. Le mode **MAX se déclenche
 
 **Claude.ai** : Paramètres → Capacités → Skills → importer `fable-x.skill`.
 
-**Claude Code** : copier le dossier `fable-x/` dans `~/.claude/skills/`.
+**Claude Code** : crée un dossier `fable-x` dans `~/.claude/skills/`, puis place `SKILL.md` (présent dans ce dépôt) à l'intérieur — le chemin final doit être `~/.claude/skills/fable-x/SKILL.md`.
 
-**Tout autre LLM/agent** : coller le contenu de `fable-x/SKILL.md` en system prompt (ou en fichier de contexte pour vos agents n8n, Make, etc.).
+**Tout autre LLM/agent** : coller le contenu de `SKILL.md` en system prompt (ou en fichier de contexte pour vos agents n8n, Make, etc.).
 
 ## Ce que FABLE-X ne fait pas
 
