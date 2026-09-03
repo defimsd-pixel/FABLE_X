@@ -53,7 +53,7 @@ Il n'augmente pas l'intelligence brute du modèle et ne remplace ni une source f
 
 ## Auteur
 
-**Layla Amara** — fondatrice de [CODE-IA](https://code-ia.com), plateforme d'agents IA pour les PME françaises.
+**Layla Amara** — créatrice originale de FABLE-X et fondatrice de **VOOXEN**, plateforme d'agents IA pour les PME françaises.
 
 FABLE-X est né d'un besoin réel : fiabiliser des agents IA en production (paiements, bases de données, workflows) sans les ralentir sur les tâches simples. Il est utilisé quotidiennement sur nos propres systèmes.
 

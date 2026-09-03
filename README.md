@@ -1,4 +1,4 @@
-**English** | 🇫🇷 [Version française sur code-ia.com](https://code-ia.com) · [README.fr.md](README.fr.md)
+**English** | 🇫🇷 [Français](README.fr.md)
 
 # FABLE-X v3.2 — Universal Quality & Anti-Regression Protocol for LLMs
 
@@ -47,7 +47,7 @@ Without a command, the level is picked automatically. **MAX triggers by itself**
 
 **Any other LLM/agent**: paste the contents of `SKILL.md` as a system prompt (or as a context file for your n8n, Make, etc. agents).
 
-> 🇫🇷 A full French version of the protocol is available in [`SKILL.fr.md`](SKILL.fr.md) and on [code-ia.com](https://code-ia.com).
+> 🇫🇷 The French version is available in [`SKILL.fr.md`](SKILL.fr.md) and [`README.fr.md`](README.fr.md).
 
 ## What FABLE-X does NOT do
 
@@ -55,7 +55,7 @@ It doesn't increase the model's raw intelligence, and it replaces neither a reli
 
 ## Author
 
-**Layla Amara** — founder of [CODE-IA](https://code-ia.com), an AI agents platform for French SMBs.
+**Layla Amara** — original creator of FABLE-X and founder of **VOOXEN**, an AI agents platform for French SMBs.
 
 FABLE-X was born from a real need: making production AI agents reliable (payments, databases, workflows) without slowing them down on simple tasks. We use it daily on our own systems.
 

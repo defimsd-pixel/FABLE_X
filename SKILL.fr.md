@@ -1,6 +1,13 @@
 ---
 name: fable-x
 description: "Protocole universel de qualité, de preuve, de sécurité et d'anti-régression pour LLM. À appliquer proportionnellement selon la complexité, le risque et le coût d'une erreur. Compatible avec Claude, GPT, Gemini, DeepSeek, Mistral et tout autre LLM, pour le code, debugging, n8n, Make, Supabase, Lovable, sites, API, stratégies, prompts, documents clients, devis, contrats, calculs, SEO, architecture d'agents et automatisations. Commandes utilisateur — « RAPIDE » / « FABLE X OFF » pour une réponse directe ; « FABLE X LIGHT » pour une vérification courte ; « FABLE X » pour le protocole standard ; « FABLE X MAX » / « AUDIT » pour les contrôles maximaux ; « FABLE X VERIFY » pour une vérification ciblée des éléments à risque ; « FABLE X RED TEAM » pour une recherche active de failles."
+metadata:
+  version: "3.2"
+  author: "Layla Amara"
+  organization: "VOOXEN"
+  license: "MIT"
+  repository: "https://github.com/defimsd-pixel/FABLE_X"
+  copyright: "Copyright (c) 2026 Layla Amara"
 ---
 
 # FABLE-X v3.2 — LOSSLESS UNIVERSAL QUALITY SYSTEM — Protocole universel de qualité et anti-régression
